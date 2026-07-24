@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Christian Balinado, a senior computer science student at the University of Cabuyao in Laguna, going 22 yrs old.<br><br>- 🎓 I'm a Senior Computer Science student at University of Cabuyao (PNC)<br>- 👑 I continue to build and manage tech communities in Association of Computer Science Students - UC (PNC), DevKada, and No-Code Philippines<br>- 🔭 I'm working on web development projects like RoarCast, EcoCommerce, and ElderKey<br>- 📚 I'm currently learning and working with Full-Stack Development (TypeScript, Next.js, Laravel)<br>- ⚡ In my free time I love exploring new technologies and building creative projects<br>- 🌱 I'm passionate about sustainable technology solutions</p>
+<p align="left">I'm Christian Balinado, 22, a senior computer science student at the University of Cabuyao in Laguna.<br><br>- 🎓 I'm a Senior Computer Science student at University of Cabuyao (PNC)<br>- 👑 I continue to build and manage tech communities in Association of Computer Science Students - UC (PNC), DevKada, and No-Code Philippines<br>- 🔭 I'm working on web development projects like RoarCast, EcoCommerce, and ElderKey<br>- 📚 I'm currently learning and working with Full-Stack Development (TypeScript, Next.js, Laravel)<br>- ⚡ In my free time I love exploring new technologies and building creative projects<br>- 🌱 I'm passionate about sustainable technology solutions</p>
 
 ###
 
@@ -67,17 +67,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo" style="background-color: white; border-radius: 5px; padding: 2px;" />
-</div>
-
-###
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blueztian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueztian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
