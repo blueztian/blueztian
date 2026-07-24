@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Christian Balinado, a passionate developer from Laguna, Philippines<br><br>- 🎓 I'm a Computer Science student at University of Cabuyao<br>- 👑 I'm the President of the Association of Computer Science Students - UC<br>- 🔭 I'm working on web development projects and sustainable e-commerce solutions<br>- 📚 I'm currently learning Web Technologies, JavaScript, and Full-Stack Development<br>- ⚡ In my free time I love exploring new technologies and building creative projects<br>- 🌱 I'm passionate about sustainable technology solutions</p>
+<p align="left">I'm Christian Balinado, a senior computer science student at the University of Cabuyao in Laguna, going 22 yrs old.<br><br>- 🎓 I'm a Senior Computer Science student at University of Cabuyao (PNC)<br>- 👑 I continue to build and manage tech communities in Association of Computer Science Students - UC (PNC), DevKada, and No-Code Philippines<br>- 🔭 I'm working on web development projects like RoarCast, EcoCommerce, and ElderKey<br>- 📚 I'm currently learning and working with Full-Stack Development (TypeScript, Next.js, Laravel)<br>- ⚡ In my free time I love exploring new technologies and building creative projects<br>- 🌱 I'm passionate about sustainable technology solutions</p>
 
 ###
 
@@ -48,15 +48,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo" style="background-color: white; border-radius: 5px; padding: 2px;" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo" style="background-color: white; border-radius: 5px; padding: 2px;" />
 </div>
 
 ###
@@ -87,21 +97,21 @@
 ###
 
 <div align="left">
+  <h4>🦁 RoarCast - Tech Education Platform</h4>
+  <p>A comprehensive tech education and intelligence dashboard with personalized learning paths, readiness assessments, and community features.</p>
+  <p><strong>Technologies:</strong> Next.js, React, TypeScript, TailwindCSS</p>
+  
+  <h4>👴 ElderKey - Healthcare Solution</h4>
+  <p>An innovative healthcare application focusing on elder care management.</p>
+  <p><strong>Technologies:</strong> Full-Stack Development</p>
+  
+  <h4>🌱 EcoCommerce - Sustainable E-commerce</h4>
+  <p>Sustainable Solutions for Online Shopping - A project focused on environmentally conscious e-commerce development.</p>
+  <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript</p>
+  
   <h4>🍽️ GustosoGiro - Food Blog Website</h4>
-  <p>A collaborative food blog website featuring recipes, restaurant reviews, and culinary content. Built with HTML5, CSS3, and modern web technologies.</p>
-  <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, Responsive Design</p>
-  
-  <h4>🌱 EcoCommerce - Sustainable E-commerce Solutions</h4>
-  <p>EcoCommerce: Sustainable Solutions for Online Shopping - A project focused on environmentally conscious e-commerce development.</p>
+  <p>A collaborative food blog website featuring recipes, restaurant reviews, and culinary content.</p>
   <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript</p>
-  
-  <h4>📄 ePortfolio - Personal Portfolio Website</h4>
-  <p>A personal portfolio website showcasing projects, skills, and achievements.</p>
-  <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript</p>
-  
-  <h4>🔐 Triturn-Cipher - Encryption Project</h4>
-  <p>A JavaScript-based encryption and cipher implementation project.</p>
-  <p><strong>Technologies:</strong> JavaScript, Cryptography</p>
 </div>
 
 ###
